@@ -21,5 +21,17 @@
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.1",
     "vite": "^4.1.0"
-  }
+  },
+  "description": "To initialize this project use the command - npm init\r <br/>\r And to run in local environment use - npm run dev",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit-shinde-26/To_Do_app_ReactJs.git"
+  },
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit-shinde-26/To_Do_app_ReactJs/issues"
+  },
+  "homepage": "https://github.com/rohit-shinde-26/To_Do_app_ReactJs#readme"
 }
