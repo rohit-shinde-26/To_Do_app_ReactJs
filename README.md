@@ -76,7 +76,8 @@ To run tests, run the following command
   npm run dev
 
 ```
-
+![todo1](https://github.com/rohit-shinde-26/To_Do_app_ReactJs/assets/100394511/6530a1be-15e0-40fb-8f20-936b07368d01)
+![todo2](https://github.com/rohit-shinde-26/To_Do_app_ReactJs/assets/100394511/cabe74ed-83c9-4975-8e3c-beab826e7113)
 
 ## Tech Stack
 
