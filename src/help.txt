@@ -1,0 +1,5 @@
+This project was developed using Vite + ReactJs 
+
+
+
+To start project use : npm run dev 
