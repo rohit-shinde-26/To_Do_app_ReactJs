@@ -81,7 +81,7 @@ To run tests, run the following command
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** Vite + React, Redux, TailwindCSS
 
 **Server:** Node, Express
 
